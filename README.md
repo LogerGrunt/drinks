@@ -9,8 +9,9 @@
   <p><strong>Updated: April 23, 2025</strong></p>
   <ul>
     <li>⚡ Bloom – $4 or 2 for 7</li>
-    <li>🍇 V8 Energy – $4</li>
-    <li>🥒 Sprite – $2</li>
+    <li>⚡ V8 Energy – $4</li>
+    <li> Sprite – $2</li>
+    <li> Cocal Cola - $2</li>
   </ul>
 </body>
 </html>
